@@ -1,5 +1,5 @@
 
-<img src= "b7e0a4139abec8723c049a3e5846b949_w200.gif" width = "325px" align= "right">
+<img src= "Banner.gif" width = "325px" align= "right">
 _ _ _
 
 
