@@ -1,5 +1,5 @@
 
-<img scr= "EsteemedGoodnaturedIndianjackal-size_restricted.gif" width = "325px" align = "right">
+<img scr= "Banner.gif" width = "325px">
 _ _ _
 
 
