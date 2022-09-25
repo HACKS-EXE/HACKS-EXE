@@ -1,4 +1,5 @@
-![EsteemedGoodnaturedIndianjackal-size_restricted](https://user-images.githubusercontent.com/88611462/192125855-9027b719-db8b-489d-ac27-87a853740604.gif)
+
+<img scr= "b7e0a4139abec8723c049a3e5846b949_w200.gif" width = "325px" align = "right">
 _ _ _
 
 
