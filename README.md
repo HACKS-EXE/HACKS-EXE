@@ -17,3 +17,5 @@ _ _ _
 <li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM/MODERN%20WARFARE%203/SERVIDORES/MULTIJOGADOR">🖥 Servidor Modern Warfare 3</a></li>
 
 <li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM">🖥 Servidores Para jogos</a></li>
+
+<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/releases/tag/Servidores">🚀 Baixar</a></li>
