@@ -4,4 +4,4 @@
                                 kanklnakhnhh
 _ _ _
 
-<li><a class="link_name" href="[https://github.com/HACKS-EXE/HACKS-EXE/tree/main/Servidores-Geral/config_dos_serve](https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM)">🖥 Servidores Para jogos</a></li>
+<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/Servidores-Geral/config_dos_serve](https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM">🖥 Servidores Para jogos</a></li>
