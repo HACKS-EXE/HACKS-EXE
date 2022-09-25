@@ -1,6 +1,7 @@
 
-<img src= "Banner.gif" width = "325px" align= "right">
+<img src= "Banner.gif" width = "10%" align= "left">
+
+                                kanklnakhnhh
 _ _ _
 
-
-- 🖥 Servidores Para jogos.
+<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/Servidores-Geral/config_dos_serve">🖥 Servidores Para jogos</a></li>
