@@ -1,5 +1,3 @@
-
-<img scr= "Bannerg.gif" width = "325px">
 _ _ _
 
 
