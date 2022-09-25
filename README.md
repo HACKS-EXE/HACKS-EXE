@@ -1,5 +1,5 @@
 
-<img src= "Banner.gif" width = "50%" align= "left">
+<img src= "Banner.gif" width = "10%" align= "left">
 
                                               Sejá Bem vindo!
 
