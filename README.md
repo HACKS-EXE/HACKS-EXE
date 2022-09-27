@@ -18,4 +18,4 @@ _ _ _
 
 <li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM">🖥 Servidores Para jogos</a></li>
 
-<li><a class="link_name" href="https://github.com/HACKS-EXE/SERVIDORES/releases">🚀 Baixar</a></li>
+<li><a class="link_name" href="https://github.com/HACKS-EXE/SERVIDORES/releases/tag/Servidores">🚀 Baixar</a></li>
