@@ -1,22 +1,27 @@
+[<img src= "https://besthqwallpapers.com/Uploads/10-4-2021/162207/thumb2-flag-of-brazil-honeycomb-art-brazil-hexagons-flag-brazil-3d-hexagons-art.jpg" width = "15%" align= "left">](https://t.me/ZaquilesPy)
+# 📢 Grupo BR Oficial do [Telegram](https://t.me/ZaquilesPy)
+[<img src= "https://github.com/HACKS-EXE/HACKS-EXE/blob/main/Capa%20canal%20Zaquiles%20PY%20gif%2002.gif" height = "auto" width = "auto" align= "right">](https://t.me/ZaquilesPy)
 
-<img src= "Banner.gif" width = "10%" align= "left">
+# <p align="center">Zaquiles-PY-TeleBot-API
 
-                                              Sejá Bem vindo!
+<p align="center">Uma implementação Python simples, mas extensível para o <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
+<p align="center">Tanto síncrono quanto assíncrono.</p>
 
-  <img src="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773" title="HTML5" alt="HTML" width="100" align= "right" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" align= "right" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" align= "right" height="40"/>&nbsp;
-  
-_ _ _
+## <p align="center">Versão da API do bot compatível: <a href="https://core.telegram.org/bots/api-changelog#september-22-2023">6.9</a>!
 
-<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM/WORD%20AT%20WAR/SERVIDORES">🖥 Servidor WORD AT WAR</a></li>
+<h2><a href='https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API'>Documentação Oficial Brasileira</a></h2>
+<h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Documentação Oficial</a></h2>
+<h2><a href='https://pytba.readthedocs.io/ru/latest/index.html'>Documentação Oficial Russa</a></h2>
 
-<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM/CALL%20OF%20DUTY%20BLACK%20OPS/SERVIDORES">🖥 Servidor Call of Duty black ops</a></li>
+* Requer instalação do Git
+* [<img src= "https://hermes.dio.me/articles/cover/f54fb5c2-a04f-4ee5-aaf2-14fd4336fbc1.png" height = "10%" width = "10%" align= "auto">](https://git-scm.com/downloads)
 
-<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM/CALL%20OF%20DUTY%20BLACK%20OPS%202/SERVIDORES">🖥 Servidor Call of Duty black ops 2</a></li>
-
-<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM/MODERN%20WARFARE%203/SERVIDORES/MULTIJOGADOR">🖥 Servidor Modern Warfare 3</a></li>
-
-<li><a class="link_name" href="https://github.com/HACKS-EXE/HACKS-EXE/tree/main/PLUTONIUM">🖥 Servidores Para jogos</a></li>
-
-<li><a class="link_name" href="https://github.com/HACKS-EXE/SERVIDORES/releases/tag/Servidores">🚀 Baixar</a></li>
+```
+$ git clone https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+$ cd Zaquiles-PY-TeleBot-API
+$ python setup.py install
+```
+ou:
+```
+$ pip install git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+```
