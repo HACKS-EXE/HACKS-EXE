@@ -13,7 +13,8 @@
 <h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Documentação Oficial</a></h2>
 <h2><a href='https://pytba.readthedocs.io/ru/latest/index.html'>Documentação Oficial Russa</a></h2>
 
-* Requer instalação do Git
+* Requer instalação do Visual Studio Code e Git
+* [<img src= "https://code.visualstudio.com/opengraphimg/opengraph-blog.png" height = "15%" width = "15%" align= "auto">](https://code.visualstudio.com/download)
 * [<img src= "https://hermes.dio.me/articles/cover/f54fb5c2-a04f-4ee5-aaf2-14fd4336fbc1.png" height = "10%" width = "10%" align= "auto">](https://git-scm.com/downloads)
 
 ```
@@ -21,7 +22,18 @@ $ git clone https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 $ cd Zaquiles-PY-TeleBot-API
 $ python setup.py install
 ```
-ou:
+ou
+
+Instalar pela primeira vez
 ```
 $ pip install git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+```
+
+Verificar atualizações:
+```
+pip install --upgrade --dry-run git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+```
+Baixar atualizações:
+```
+pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
