@@ -26,14 +26,14 @@ ou
 
 Instalar pela primeira vez
 ```
-$ pip install git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+pip install git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
 
 Verificar atualizações:
 ```
-pip install --upgrade --dry-run git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+$ pip install --upgrade --dry-run git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
 Baixar atualizações:
 ```
-pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+$ pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
