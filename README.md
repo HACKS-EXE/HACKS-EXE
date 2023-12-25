@@ -56,6 +56,9 @@ pip install requests
 pip install urlparse
 ```
 ```
+pip install subprocess
+```
+```
 pip install BeautifulSoup
 ```
 <summary>
