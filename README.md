@@ -37,3 +37,32 @@ Baixar atualizações:
 ```
 $ pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
+
+<details>
+
+```
+pip install os
+```
+```
+pip install pytubefix
+```
+```
+pip install BytesIO
+```
+```
+pip install requests
+```
+```
+pip install urlparse
+```
+```
+pip install BeautifulSoup
+```
+<summary>
+
+- Clique aqui para ver as apis extra para usar no seus bots
+- Api necessária para usar alguns bots nossos:
+
+</summary>
+
+</details>
