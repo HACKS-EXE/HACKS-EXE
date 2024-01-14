@@ -39,27 +39,9 @@ $ pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API
 ```
 
 <details>
-
-```
-pip install os
-```
+  
 ```
 pip install pytubefix
-```
-```
-pip install BytesIO
-```
-```
-pip install requests
-```
-```
-pip install urlparse
-```
-```
-pip install subprocess
-```
-```
-pip install BeautifulSoup
 ```
 <summary>
 
