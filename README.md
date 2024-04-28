@@ -7,7 +7,7 @@
 <p align="center">Uma implementação Python simples, mas extensível para o <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
 <p align="center">Tanto síncrono quanto assíncrono.</p>
 
-## <p align="center">Versão da API do bot compatível: <a href="https://core.telegram.org/bots/api-changelog#september-22-2023">7.1</a>!
+## <p align="center">Versão da API do bot compatível: <a href="https://core.telegram.org/bots/api#march-31-2024">7.2</a>!
 
 <h2><a href='https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API'>Documentação Oficial Brasileira</a></h2>
 <h2><a href='https://pytba.readthedocs.io/en/latest/index.html'>Documentação Oficial</a></h2>
@@ -31,15 +31,18 @@ pip install git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 
 Verificar atualizações:
 ```
-$ pip install --upgrade --dry-run git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+pip install --upgrade --dry-run git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
 Baixar atualizações:
 ```
-$ pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
+pip install --upgrade git+https://github.com/HACKS-EXE/Zaquiles-PY-TeleBot-API.git
 ```
 
 <details>
   
+```
+pip install git+https://github.com/HACKS-EXE/ZQ-PY-YOUTUBE.git
+```
 ```
 pip install pytubefix
 ```
